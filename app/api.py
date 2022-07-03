@@ -1,5 +1,6 @@
+import requests
 from flask import request
-from flask_restful import Resource, reqparse
+from flask_restful import Resource
 import json
 
 from app.tools import Grades
@@ -13,7 +14,7 @@ class Schools(Resource):
 # extract grades request
 class ExtractGrades(Resource):
     def post(self):
-        return Grades(request.get_data()).extract()
+        return json.loads(Grades(request.get_data()).extract())
 
 
 class GetGradesOptions(Resource):

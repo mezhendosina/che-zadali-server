@@ -58,7 +58,7 @@ class Grades:
 
     def extract(self) -> str:
         soup = BeautifulSoup(self.html, features="lxml").find("table", class_="table-print")
-        table = pd.read_html(str(soup), encoding="utf-8", skiprows=1, thousands=".", decimal=",", header=0)[0]
+        table = pd.read_html(str(soup), skiprows=1, thousands=".", decimal=",", header=0)[0]
 
         table.columns = [
             i.replace("Предмет", "name")
