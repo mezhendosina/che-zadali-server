@@ -72,3 +72,8 @@ class Grades:
             table.columns]
 
         return table.to_json(orient="records")
+
+
+if __name__ == "__main__":
+    with open("html.html", "r", encoding="utf-8") as f:
+        print(Grades(f).get_options())
