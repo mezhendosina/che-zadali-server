@@ -1,0 +1,1131 @@
+{
+    "SchoolItems": [
+        {
+            "school": "МБОУ \"Гимназия №1 \"",
+            "SchoolId": "103",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "ЧОУ \"СОШ №1 \"",
+            "SchoolId": "3143",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Образовательный центр № 2 \"",
+            "SchoolId": "3187",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 3 \"",
+            "SchoolId": "141",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ «ОЦ «НЬЮТОН» »",
+            "SchoolId": "3335",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ №4 \"",
+            "SchoolId": "142",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"Школа-интернат № 4 \"",
+            "SchoolId": "104",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"ОЦ № 5 \"",
+            "SchoolId": "3771",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 5 \"",
+            "SchoolId": "117",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 6 \"",
+            "SchoolId": "118",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Образовательный центр № 7 \"",
+            "SchoolId": "5743",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"С(К)ОШ № 7 \"",
+            "SchoolId": "119",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 8 \"",
+            "SchoolId": "105",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ школа-интернат № 9 города Челябинска",
+            "SchoolId": "3148",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"Гимназия № 10 \"",
+            "SchoolId": "106",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"Школа-интернат № 10 \"",
+            "SchoolId": "175",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"Лицей № 11 \"",
+            "SchoolId": "53",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"С(К)ОШ № 11 \"",
+            "SchoolId": "121",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"С(К)ОШИ № 12 \"",
+            "SchoolId": "36",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 12 \"",
+            "SchoolId": "143",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 13 \"",
+            "SchoolId": "144",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ школа-интернат №13 города Челябинска",
+            "SchoolId": "3149",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 14 \"",
+            "SchoolId": "157",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 15 \"",
+            "SchoolId": "11",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "Школа – интернат № 15 ОАО «РЖД»",
+            "SchoolId": "1308",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 17 \"",
+            "SchoolId": "12",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 19 \"",
+            "SchoolId": "60",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 21 \"",
+            "SchoolId": "122",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 22 \"",
+            "SchoolId": "145",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Гимназия № 23 \"",
+            "SchoolId": "183",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 24 \"",
+            "SchoolId": "158",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 25 \"",
+            "SchoolId": "124",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Гимназия № 26 \"",
+            "SchoolId": "146",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 28 \"",
+            "SchoolId": "147",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 30 \"",
+            "SchoolId": "107",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"ФМЛ № 31 \"",
+            "SchoolId": "51",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 32 \"",
+            "SchoolId": "79",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 33 \"",
+            "SchoolId": "159",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Лицей № 35 \"",
+            "SchoolId": "148",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 36 \"",
+            "SchoolId": "125",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Лицей № 37 \"",
+            "SchoolId": "81",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 39 \"",
+            "SchoolId": "62",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 41 \"",
+            "SchoolId": "52",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 42 \"",
+            "SchoolId": "160",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 43 \"",
+            "SchoolId": "14",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 45 \"",
+            "SchoolId": "149",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 46 \"",
+            "SchoolId": "82",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 47 \"",
+            "SchoolId": "83",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"Гимназия № 48 \"",
+            "SchoolId": "63",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 50 \"",
+            "SchoolId": "126",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 51 \"",
+            "SchoolId": "85",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 53 \"",
+            "SchoolId": "40",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 54 \"",
+            "SchoolId": "127",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 55 \"",
+            "SchoolId": "86",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 56 \"",
+            "SchoolId": "15",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"С(К)ОШ № 57 \"",
+            "SchoolId": "177",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 58 \"",
+            "SchoolId": "16",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 59 \"",
+            "SchoolId": "65",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"С(К)ОШ № 60 \"",
+            "SchoolId": "87",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 61 \"",
+            "SchoolId": "161",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 62 \"",
+            "SchoolId": "66",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"Гимназия № 63 \"",
+            "SchoolId": "109",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Лицей № 67 \"",
+            "SchoolId": "110",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "Начальная школа – детский сад №67 ОАО «РЖД»",
+            "SchoolId": "1310",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 68 \"",
+            "SchoolId": "89",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 68 \" (филиал 2)",
+            "SchoolId": "93",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ «СОШ № 68 » (филиал 3)",
+            "SchoolId": "181",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 70 \"",
+            "SchoolId": "162",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 71 \"",
+            "SchoolId": "163",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"С(К)ОШ № 72 \"",
+            "SchoolId": "150",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 73 \"",
+            "SchoolId": "164",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 74 \"",
+            "SchoolId": "165",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 75 \"",
+            "SchoolId": "90",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Гимназия № 76 \"",
+            "SchoolId": "91",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Лицей № 77 \"",
+            "SchoolId": "92",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 78 \"",
+            "SchoolId": "128",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 81 \"",
+            "SchoolId": "67",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Лицей № 82 \"",
+            "SchoolId": "166",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"С(К)ОШ № 83 \"",
+            "SchoolId": "55",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 84 \"",
+            "SchoolId": "68",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 86 \"",
+            "SchoolId": "69",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МAОУ \"Гимназия № 80 \"",
+            "SchoolId": "17",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"Лицей № 88 \"",
+            "SchoolId": "167",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 89 \"",
+            "SchoolId": "151",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"Прогимназия № 90 \"",
+            "SchoolId": "140",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 91 \"",
+            "SchoolId": "168",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 92 \"",
+            "SchoolId": "169",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Гимназия № 93 \"",
+            "SchoolId": "152",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 94 \"",
+            "SchoolId": "170",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Академический лицей № 95 \"",
+            "SchoolId": "178",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Гимназия № 96 \"",
+            "SchoolId": "171",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Лицей № 97 \"",
+            "SchoolId": "182",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 98 \"",
+            "SchoolId": "19",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 99 \"",
+            "SchoolId": "94",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Гимназия № 100 \"",
+            "SchoolId": "95",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Лицей № 102 \"",
+            "SchoolId": "71",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 103 \"",
+            "SchoolId": "172",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 104 \"",
+            "SchoolId": "131",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 105 \"",
+            "SchoolId": "20",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 106 \"",
+            "SchoolId": "72",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 107 \"",
+            "SchoolId": "73",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 108 \"",
+            "SchoolId": "96",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 109 \"",
+            "SchoolId": "132",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"ООШ № 110 \"",
+            "SchoolId": "21",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 112 \"",
+            "SchoolId": "74",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 115 \"",
+            "SchoolId": "153",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 116 \"",
+            "SchoolId": "75",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 118 \"",
+            "SchoolId": "154",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"С(К)ОШ № 119 \"",
+            "SchoolId": "76",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"Лицей № 120 \"",
+            "SchoolId": "77",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 121 \"",
+            "SchoolId": "24",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 124 \"",
+            "SchoolId": "134",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"С(К)ОШ № 127 \"",
+            "SchoolId": "111",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 129 \"",
+            "SchoolId": "135",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 130 \"",
+            "SchoolId": "102",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 131 \"",
+            "SchoolId": "26",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 137 \"",
+            "SchoolId": "155",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 138 \"",
+            "SchoolId": "112",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 140 \"",
+            "SchoolId": "173",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 141 \"",
+            "SchoolId": "174",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Лицей № 142 \"",
+            "SchoolId": "27",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 144 \"",
+            "SchoolId": "57",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 145 \"",
+            "SchoolId": "29",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 146 \"",
+            "SchoolId": "100",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 147 \"",
+            "SchoolId": "113",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"МЛ № 148 \"",
+            "SchoolId": "202",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 150 \"",
+            "SchoolId": "137",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 151 \"",
+            "SchoolId": "138",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 152 \"",
+            "SchoolId": "156",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 153 \"",
+            "SchoolId": "116",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 154 \"",
+            "SchoolId": "139",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 155 \"",
+            "SchoolId": "78",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "«Центр содействия семейному воспитанию »",
+            "SchoolId": "3332",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "ГБОУ ОЦДиК",
+            "SchoolId": "3183",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "ГБОУ ЧКШИ с ПЛП",
+            "SchoolId": "1300",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "ГБОУ ЧОМЛИ",
+            "SchoolId": "1307",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "НОУ \"СОШ \"Эстет-центр\"\"",
+            "SchoolId": "1304",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "НОУ НОШ «Школа Разума»",
+            "SchoolId": "1312",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "Челябинская областная специальная общеобразовательная школа закрытого типа",
+            "SchoolId": "3152",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "ЧОУ \"Основная общеобразовательная школа Максимовой \"Улыбка\"",
+            "SchoolId": "3316",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "ЧОУ \"СОШ \"Эстет-центр М\"",
+            "SchoolId": "3345",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "ЧОУ «СОШ «Перспектива»",
+            "SchoolId": "1328",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "ЧОУ «Челябинская православная гимназия»",
+            "SchoolId": "1314",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "ЧОУ НОШ «Альтернатива»",
+            "SchoolId": "1313",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "ЧОУ СОШ \"Лидер\"",
+            "SchoolId": "1309",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"ОЦ № 1\"",
+            "SchoolId": "133",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"ОЦ № 3\"",
+            "SchoolId": "64",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СШИ №3 \"",
+            "SchoolId": "185",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"Лицей № 11 \" (филиал)",
+            "SchoolId": "115",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 32 \" (филиал)",
+            "SchoolId": "84",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 54 \" (филиал)",
+            "SchoolId": "136",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 62 \" (филиал)",
+            "SchoolId": "58",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 68 \" (филиал)",
+            "SchoolId": "97",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"СОШ № 75 \" (филиал)",
+            "SchoolId": "80",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Гимназия № 76 \" (филиал)",
+            "SchoolId": "98",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"Лицей № 97 \" (филиал)",
+            "SchoolId": "130",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 104 \" (филиал)",
+            "SchoolId": "120",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МАОУ \"СОШ № 145 \" (филиал)",
+            "SchoolId": "56",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"ОЦ № 3\" (филиал)",
+            "SchoolId": "61",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "Комитет (семейное образование)",
+            "SchoolId": "5591",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        },
+        {
+            "school": "МБОУ \"Школа-интернат спортивного профиля \"",
+            "SchoolId": "242",
+            "province_id": -1,
+            "city": "г. Челябинск",
+            "city_id": 1
+        }
+    ]
+}

@@ -4,7 +4,7 @@ from flask import Flask
 from flask_restful import Api, request
 import time
 
-from api import Schools, ExtractGrades, GetGradesOptions
+from app.api import Schools, ExtractGrades, GetGradesOptions
 
 app = Flask(__name__)
 api = Api(app)
