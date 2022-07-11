@@ -35,7 +35,7 @@ def json_example():
             release_notes = f'<b>Доступна новая версия приложения: </b><i>{request_json["release"]["tag_name"]}</i>\n\n{request_json["release"]["body"]}\n\n<a href="{url}">Скачать</a>'
 
             with open(apk_name, "rb") as f:
-                request.post(
+                requests.post(
                     "https://api.telegram.org/bot1950280557:AAFr-Zp_6q3KKu8pUfsD491sEcuKgNtA5HE/sendDocument", 
                     files={'document': (apk_name, f)}, 
                     data={"chat_id": 401311369, "caption": release_notes, "parse_mode": "HTML"}
