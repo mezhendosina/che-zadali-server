@@ -28,15 +28,16 @@ def json_example():
 
             download_apk = requests.get(url, stream=True)
 
-            with open(apk_name, "rwb") as fb:
+            with open(apk_name, "wb") as fb:
                 for chunk in download_apk.iter_content(chunk_size=1024):
                     fb.write(chunk)
 
-                release_notes = f'<b>Доступна новая версия приложения: </b><i>{request_json["release"]["tag_name"]}</i>\n\n{request_json["release"]["body"]}\n\n<a href="{url}">Скачать</a>'
+            release_notes = f'<b>Доступна новая версия приложения: </b><i>{request_json["release"]["tag_name"]}</i>\n\n{request_json["release"]["body"]}\n\n<a href="{url}">Скачать</a>'
 
+            with open(apk_name, "rb") as f:
                 request.post(
                     "https://api.telegram.org/bot1950280557:AAFr-Zp_6q3KKu8pUfsD491sEcuKgNtA5HE/sendDocument", 
-                    files={'document': (apk_name, fb)}, 
+                    files={'document': (apk_name, f)}, 
                     data={"chat_id": 401311369, "caption": release_notes, "parse_mode": "HTML"}
                 )
             os.remove(apk_name)
