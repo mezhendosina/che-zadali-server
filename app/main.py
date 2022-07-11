@@ -4,7 +4,7 @@ from flask import Flask
 from flask_restful import Api, request
 import time
 
-from app.api import Schools, ExtractGrades, GetGradesOptions
+from api import Schools, ExtractGrades, GetGradesOptions
 
 app = Flask(__name__)
 api = Api(app)
@@ -15,7 +15,7 @@ def json_example():
     try:
         s_time = time.time()
 
-        url = ""
+        url, apk_name = "", ""
         request_json = request.get_json()
 
         if request_json["action"] == "published":
@@ -23,11 +23,21 @@ def json_example():
             for i in request_json["release"]["assets"]:
                 if i["content_type"] == "application/vnd.android.package-archive":
                     url = i["browser_download_url"]
+                    apk_name = i["name"]
 
-            release_notes = f'<b>Доступна новая версия приложения: </b><i>{request_json["release"]["tag_name"]}</i>\n\n{request_json["release"]["body"]}\n\n<a href="{url}">Скачать</a>'
-            requests.post("https://api.telegram.org/bot1950280557:AAFr-Zp_6q3KKu8pUfsD491sEcuKgNtA5HE/sendMessage",
-                          data={"chat_id": -1001621609379, "text": release_notes,
-                                "parse_mode": "HTML"})
+            download_apk = request.get(url, stream=True)
+
+            with open(apk_name, "rwb") as fb:
+                for chunk in download_apk.iter_content(chunk_size=1024):
+                    fb.write(chunk)
+
+                release_notes = f'<b>Доступна новая версия приложения: </b><i>{request_json["release"]["tag_name"]}</i>\n\n{request_json["release"]["body"]}\n\n<a href="{url}">Скачать</a>'
+
+                request.post(
+                    "https://api.telegram.org/bot1950280557:AAFr-Zp_6q3KKu8pUfsD491sEcuKgNtA5HE/sendDocument", 
+                    files={'document': (apk_name, fb)}, 
+                    data={"chat_id": 401311369, "caption": release_notes, "parse_mode": "HTML"}
+                )
 
         return str(time.time() - s_time)
     except BaseException as e:
