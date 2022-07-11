@@ -46,11 +46,7 @@ def json_example():
                 requests.post(
                     "https://api.telegram.org/bot1950280557:AAFr-Zp_6q3KKu8pUfsD491sEcuKgNtA5HE/sendDocument", 
                     files={'document': (apk_name, f)}, 
-                    data={
-                            "chat_id": chat_id, 
-                            "caption": release_notes, 
-                            "parse_mode": "HTML"
-                        }
+                    data={'chat_id': chat_id}
                 )
             os.remove(apk_name)
 
