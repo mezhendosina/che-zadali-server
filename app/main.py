@@ -10,6 +10,7 @@ from app.api import Schools, ExtractGrades, GetGradesOptions
 app = Flask(__name__)
 api = Api(app)
 
+chat_id = 401311369
 
 @app.route('/new_release', methods=['POST'])
 def json_example():
@@ -32,13 +33,24 @@ def json_example():
                 for chunk in download_apk.iter_content(chunk_size=1024):
                     fb.write(chunk)
 
-            release_notes = f'<b>Доступна новая версия приложения: </b><i>{request_json["release"]["tag_name"]}</i>\n\n{request_json["release"]["body"]}\n\n<a href="{url}">Скачать</a>'
-
+            release_notes = f'<b>Доступна новая версия приложения: </b><i>{request_json["release"]["tag_name"]}</i>\n\n{request_json["release"]["body"]}'
+            requests.post(
+                "https://api.telegram.org/bot1950280557:AAFr-Zp_6q3KKu8pUfsD491sEcuKgNtA5HE/sendMessage", 
+                data={
+                    "chat_id": chat_id, 
+                    "text": release_notes,
+                    "parse_mode": "HTML"
+                    }
+                )
             with open(apk_name, "rb") as f:
                 requests.post(
                     "https://api.telegram.org/bot1950280557:AAFr-Zp_6q3KKu8pUfsD491sEcuKgNtA5HE/sendDocument", 
                     files={'document': (apk_name, f)}, 
-                    data={"chat_id": 401311369, "caption": release_notes, "parse_mode": "HTML"}
+                    data={
+                            "chat_id": chat_id, 
+                            "caption": release_notes, 
+                            "parse_mode": "HTML"
+                        }
                 )
             os.remove(apk_name)
 
