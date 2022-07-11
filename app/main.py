@@ -1,4 +1,5 @@
 # imports
+import os
 import requests
 from flask import Flask
 from flask_restful import Api, request
@@ -38,6 +39,7 @@ def json_example():
                     files={'document': (apk_name, fb)}, 
                     data={"chat_id": 401311369, "caption": release_notes, "parse_mode": "HTML"}
                 )
+            os.remove(apk_name)
 
         return str(time.time() - s_time)
     except BaseException as e:

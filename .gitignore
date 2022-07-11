@@ -1,3 +1,5 @@
 /.idea
 /venv
 /app/html.html
+/test.py
+/app/__pycache__
