@@ -26,7 +26,7 @@ def json_example():
                     url = i["browser_download_url"]
                     apk_name = i["name"]
 
-            download_apk = request.get(url, stream=True)
+            download_apk = requests.get(url, stream=True)
 
             with open(apk_name, "rwb") as fb:
                 for chunk in download_apk.iter_content(chunk_size=1024):
