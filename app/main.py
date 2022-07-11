@@ -10,6 +10,8 @@ from app.api import Schools, ExtractGrades, GetGradesOptions
 app = Flask(__name__)
 api = Api(app)
 
+telegram_api_token = os.getenv("TELEGRAM_API_TOKEN")
+
 chat_id = -1001621609379
 
 @app.route('/new_release', methods=['POST'])
@@ -35,7 +37,7 @@ def json_example():
 
             release_notes = f'<b>Доступна новая версия приложения: </b><i>{request_json["release"]["tag_name"]}</i>\n\n{request_json["release"]["body"]}'
             requests.post(
-                "https://api.telegram.org/bot1950280557:AAFr-Zp_6q3KKu8pUfsD491sEcuKgNtA5HE/sendMessage", 
+                f"https://api.telegram.org/bot{telegram_api_token}/sendMessage", 
                 data={
                     "chat_id": chat_id, 
                     "text": release_notes,
@@ -44,7 +46,7 @@ def json_example():
                 )
             with open(apk_name, "rb") as f:
                 requests.post(
-                    "https://api.telegram.org/bot1950280557:AAFr-Zp_6q3KKu8pUfsD491sEcuKgNtA5HE/sendDocument", 
+                    f"https://api.telegram.org/bot{telegram_api_token}/sendDocument", 
                     files={'document': (apk_name, f)}, 
                     data={'chat_id': chat_id}
                 )
