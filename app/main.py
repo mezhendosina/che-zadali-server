@@ -10,7 +10,7 @@ from app.api import Schools, ExtractGrades, GetGradesOptions
 app = Flask(__name__)
 api = Api(app)
 
-chat_id = 401311369
+chat_id = -1001621609379
 
 @app.route('/new_release', methods=['POST'])
 def json_example():
